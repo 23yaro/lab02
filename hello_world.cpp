@@ -7,3 +7,4 @@ main(int argc, char** argv)
   std::print("hello world from ", name);
 }
 EOF##coments
+
