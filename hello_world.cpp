@@ -6,3 +6,4 @@ std::cin << name;
 std::print("hello world from ", name);
 }
 EOF
+##coments
