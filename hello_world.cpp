@@ -2,6 +2,8 @@
 int main(int argc, char** argv)
 using namespace std;
 {
-print("hello");
+string name;
+cin << name;
+print("hello world from ", name);
 }
 EOF
